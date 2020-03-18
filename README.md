@@ -1,6 +1,6 @@
-# expense_tracker_app
+# Expense Tracker Flutter
 
-A new Flutter project.
+A simple app to keep track of your expenses. You can add and remove expenses as you like and store them datewise!
 
 ## Getting Started
 
